@@ -1,0 +1,7 @@
+{
+  "name": "Maestro AI - Ultra Orchestra & Academy",
+  "description": "Uma academia de música interativa que ouve você tocar e ensina orquestração usando IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
